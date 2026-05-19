@@ -1,1 +1,3 @@
-# git
+# Git example
+
+## Names
